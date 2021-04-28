@@ -14,6 +14,7 @@ A while ago I designed an algorithm to test the strength of a password. The algo
 
 - ***The Black Key*** (v.1.0.0):
   - ***[Download for Android](https://github.com/iamtheblackunicorn/secinfo/releases/download/v.1.0.0/SecInfo-v1.0.0-BlackKey-Release.apk) (17.1 MB)***
+  - ***[Use it on the web](https://blckunicorn.art/iamtheblackunicorn/buildArtefacts/secinfo/#/)***
 
 ## Building :hammer:
 
