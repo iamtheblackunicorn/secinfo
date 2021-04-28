@@ -59,7 +59,7 @@ const Locale('languagecode', ''),
 
 ## Changelog :black_nib:
 
-### Version 1.0.0: ***Black Key****
+### Version 1.0.0: ***Black Key***
 
 - upload to GitHub
 - polishing of the logic
