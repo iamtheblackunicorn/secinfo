@@ -1,0 +1,10 @@
+{
+  "placeHolderLabel": "Type your password",
+  "initateLabel": "Initiate",
+  "secureLabel": "Secure",
+  "insecureLabel": "Not secure",
+  "suggestionLabel": "Your suggestion",
+  "byLabel": "by",
+  "licensedLabel": "Licensed under the",
+  "licenseLabel": "license"
+}

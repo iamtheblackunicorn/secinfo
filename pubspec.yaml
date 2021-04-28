@@ -1,0 +1,25 @@
+name: secinfo
+description: A small app to test the strength of your passwords.
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  securitycheck: ^1.1.0
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+  fonts:
+     - family: Lobster
+       fonts:
+         - asset: assets/fonts/Lobster.ttf
