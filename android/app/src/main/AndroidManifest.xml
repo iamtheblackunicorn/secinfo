@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.blackunicorn.secinfo">
+   <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="Sec Info"
         android:icon="@mipmap/ic_launcher">
